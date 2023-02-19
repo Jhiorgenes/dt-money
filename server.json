@@ -1,0 +1,12 @@
+{
+  "transactions": [
+    {
+      "description": "Computador",
+      "amount": 3478,
+      "category": "Setup Gamer",
+      "type": "outcome",
+      "createdAt": "2023-02-17T00:42:33.745Z",
+      "id": 1
+    }
+  ]
+}
