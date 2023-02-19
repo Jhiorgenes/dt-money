@@ -1,1 +1,1 @@
-[Screenshot](dtmoney.png)
+![Screenshot](dtmoney.png)
