@@ -21,6 +21,24 @@ This project was developed with the following technologies:
 - JsonServer
 
 
+## How to use
+
+```bash
+# open a terminal and copy and paste the following url
+ git clone https://github.com/martins-rafael/dtmoney.git
+
+# change to directory 
+cd dtmoney
+
+# install dependencies
+yarn install or npm install
+
+# run
+yarn start or npm run dev
+&
+npx json-server server.json -w
+```
+
 Libraries
 
 - [Google Fonts](https://fonts.google.com/)
